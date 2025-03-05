@@ -6,6 +6,5 @@ This project models the dependency graph for the "Global Student Portal" compone
 ## Setup Instructions
 1. Install [Docker](https://www.docker.com/get-started) if not already installed.
 2. Clone this repository:
-   ```sh
-   git clone <repository-url>
-   cd project_root
+
+
